@@ -1,0 +1,298 @@
+@media screen and (max-width:600px) {
+
+
+    .bar{
+
+        width: 100%;
+    }
+
+
+
+    .fristhome{
+        background: url(img/slider/slider-01.jpg);
+        background-size: 100% 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+     }
+
+     .fristhome .backgroundcolor .homecontent h3{
+        font-weight: 400;
+        margin: 0px 0px 10px;
+    }
+
+    .homecontent h1{
+        font-size: 40px;   
+    }
+
+    .homecontent h4{
+        font-size: 20px;
+}
+
+/* PROFILE */
+
+.profileimge img{
+    width:100% ;
+}
+.profilecontent{
+
+    width: 100%;
+
+}
+
+.ra{
+    width: 100%;
+    float: left;
+
+}
+
+.li{
+    width: 100%;
+    float: left;
+}
+
+/* ENDprofile */
+
+/* startServices */
+
+.itemone{
+
+    width: 100%;
+}
+
+/* endServices */
+
+    /* <!-- startOurPortfolio --> */
+    .listitme{
+
+        width: 100%;
+
+}
+    /*End Portfolio*/
+
+        /* start icon */
+        .iconone{
+            width: 100%;
+        }
+          /* end icon */
+
+          /* startfeedback */
+
+          .contenercommentfeck{
+
+            width: 100%;
+
+          }
+          .commentimg{
+            width: 30%;
+          }
+          /* endfeedback */
+
+          /* <!-- startOurBlog --> */
+
+          .itemblog{
+            width: 100%;
+
+          }
+         /* <!-- endOurBlog --> */
+
+
+
+
+
+}
+   
+    
+
+@media screen and (min-width:601px) and (max-width:768px) {
+    
+    .bar{
+
+        width: cover;
+    }
+    .fristhome{
+
+        background: url(img/slider/slider-01.jpg);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+            }
+   .fristhome .backgroundcolor .homecontent h3{
+                font-weight: 400;
+                margin: 0px 0px 10px;        
+}
+
+.homecontent h1{
+
+    font-size: 40px;
+    
+}
+
+.homecontent h4{
+    font-size: 20px;
+
+}
+
+.profileimge img{
+    width:80% ;
+}
+.profilecontent{
+
+    width: 80%;
+
+}
+.ra{
+    width: 80%;
+    float: left;
+
+}
+
+.li{
+    width: 80%;
+    float: left;
+}
+/* ENDprofile */
+
+/* startServices */
+
+.itemone{
+
+    width: 80%;
+}
+/* endServices */
+
+ /* <!-- startOurPortfolio --> */
+ .listitme{
+
+    width: 80%;
+
+}
+    /*End Portfolio*/
+
+     /* start icon */
+     .iconone{
+        width: 80%;
+    }
+      /* end icon */
+
+      /* startfeedback */
+
+      .contenercommentfeck{
+
+        width: 80%;
+
+      }
+      .commentimg{
+        width: 20%;
+      }
+      /* endfeedback */
+
+      
+          /* <!-- startOurBlog --> */
+
+          .itemblog{
+            width: 75%;
+
+          }
+         /* <!-- endOurBlog --> */
+
+
+
+
+}
+
+
+
+@media screen and (min-width:769px) and (max-width:992px) {
+    
+    .bar{
+
+        width: cover ;
+    }
+
+    .fristhome{
+
+        background: url(img/slider/slider-01.jpg);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+            }
+
+
+            .profileimge img{
+                width:60% ;
+            }
+            .profilecontent{
+            
+                width: 60%;
+            
+            }
+
+            .ra{
+                width: 60%;
+                float: left;
+            
+            }
+            
+            .li{
+                width: 60%;
+                float: left;
+            }
+
+            /* ENDprofile */
+
+   /* startServices */
+
+.itemone{
+
+    width: 50%;
+}
+/* endServices */
+
+ /* <!-- startOurPortfolio --> */
+ .listitme{
+
+    width: 50%;
+}
+    /*End Portfolio*/
+
+     /* start icon */
+     .iconone{
+        width: 50%;
+    }
+      /* end icon */
+
+      /* startfeedback */
+
+      .contenercommentfeck{
+
+        width: 100%;
+
+      }
+      .commentimg{
+        width: 20%;
+      }
+      /* endfeedback */
+
+      
+          /* <!-- startOurBlog --> */
+
+          .itemblog{
+            width: 50%;
+
+          }
+         /* <!-- endOurBlog --> */
+
+
+
+
+
+}
+
+@media screen and (min-width:993px) and (max-width:1200px) {
+
+
+    
+    
+
+    
+}
